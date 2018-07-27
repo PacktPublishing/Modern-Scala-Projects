@@ -1,0 +1,54 @@
+How to run the Stock Price Analysis Spark job:
+
+Method 1:
+
+Run the following commands in order:
+
+Step 1:  Compile the application
+C:\Users\Ilango\Documents\Packt\DevProjects\Chapter32>sbt compile
+
+Step 2: Creating an Uber Jar
+C:\Users\Ilango\Documents\Packt\DevProjects\Chapter32>sbt package
+
+Step 3: Submitting the Spark Job to our local Spark Cluster
+C:\Users\Ilango\Documents\Packt\DevProjects\Chapter32>spark-submit --class "com.packt.modern.chapter3.StockPricePipeline" --master local[2] "target\\scala-2.11\\chapter32_2.11-0.1.jar"
+
+The format for the above is:
+spark-submit --class "com.packt.modern.chapter3.StockPricePipeline" --master local[2] <path-to-jar>
+
+
+Observe the job running on: http://localhost:4040/
+----------------------------------------------------------------------------------------------------
+
+Method 2:
+
+Run the following commands in order:
+
+Step 1:
+At the following command line prompt, type "sbt" as shown below:
+C:\your\path\to\chapter3>sbt
+
+Step 2:  Running the application
+At the SBT shell prompt, type the following:
+sbt:Chapter32> runMain com.packt.modern.chapter3.StockPricePipeline
+
+------------------------------------------------------------------------
+
+Method 3:
+
+Run the following commands in order:
+
+Step 1: Compiling and Running the application
+At the following command line prompt, type the following command
+C:\your\path\to\chapter3>sbt "runMain com.packt.modern.chapter3.StockPricePipeline"
+
+
+------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+

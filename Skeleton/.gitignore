@@ -1,0 +1,13 @@
+#SBT
+target
+
+# Mac
+.DS_Store
+
+# IntelliJ
+.idea
+.idea_modules
+*.iml
+*.ipr
+*.iws
+.history
