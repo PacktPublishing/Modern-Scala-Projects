@@ -4,7 +4,7 @@
 
 This is the code repository for [Modern Scala Projects](https://www.packtpub.com/application-development/modern-scala-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788624114 ), published by Packt.
 
-**Develop robust, Scala-powered projects with the help of machine learning libraries such as SparkML to harvest meaningful insight**
+**Leverage the power of Scala for building data-driven and high-performant projects**
 
 ## What is this book about?
 Scala, together with the Spark Framework, forms a rich and powerful data processing ecosystem. Modern Scala Projects is a journey into the depths of this ecosystem. The machine learning (ML) projects presented in this book enable you to create practical, robust data analytics solutions, with an emphasis on automating data workflows with the Spark ML pipeline API. This book showcases or carefully cherry-picks from Scala’s functional libraries and other constructs to help readers roll out their own scalable data processing frameworks. The projects in this book enable data practitioners across all industries gain insights into data that will help organizations have strategic and competitive advantage. <br>Modern Scala Projects focuses on the application of supervisory learning ML techniques that classify data and make predictions. You'll begin with working on a project to predict a class of flower by implementing a simple machine learning model. Next, you'll create a cancer diagnosis classification pipeline, followed by projects delving into stock price prediction, spam filtering, fraud detection, and a recommendation engine. <br>By the end of this book, you will be able to build efficient data science projects that fulfil your software requirements.
