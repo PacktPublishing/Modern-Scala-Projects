@@ -35,20 +35,12 @@ val dataFrame = spark.createDataFrame(result5).toDF(featureVector, speciesLabel)
 **Following is what you need for this book:**
 Modern Scala Projects is for Scala developers who would like to gain some hands-on experience with some interesting real-world projects. Prior programming experience with Scala is necessary.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-7).
 ### Software and Hardware List
-| Chapter | Software required | OS required |
+| Chapter | Software required | Hardware required |
 | -------- | ------------------------------------ | ----------------------------------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 1,2,3,4,5,6,7 | JDK 8, Scala 2.11.12, SBT 1.04,  Spark 2.3.3, IntelliJ Community Edition 2018.1.5/6 with Scala Plugin,1)	Scala IDE 4.7+,	HDP Sandbox 2.6.5, Suitable SSH client, Oracle Virtual Box 5.1/2 | At least 16 GB of RAM, at least 16-32 cores, at least 10GB or higher network |
+
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/ModernScalaProjects_ColorImages.pdf).
 
