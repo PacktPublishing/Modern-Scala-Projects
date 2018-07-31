@@ -57,14 +57,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Scala Microservices [[Packt]](https://www.packtpub.com/application-development/scala-microservices?utm_source=github&utm_medium=repository&utm_campaign=9781786469342 ) [[Amazon]](https://www.amazon.com/dp/1786469340)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **Ilango Gurusamy**
 holds an MS degree in computer science from California State University. He has lead Java projects at Northrop Grumman, AT&T, and such. He moved into Scala and Functional Programming. His current interests are IoT, navigational applications, and all things Scala related. A strategic thinker, speaker, and writer, he also loves yoga, skydiving, cars, dogs, and fishing. You can know more about his achievements in his blog, titled scalanirvana. His LinkedIn user name is ilangogurusamy.
-
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
