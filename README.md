@@ -39,7 +39,7 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 | Chapter | Software required | Hardware required |
 | -------- | ------------------------------------ | ----------------------------------- |
-| 1,2,3,4,5,6,7 | JDK 8, Scala 2.11.12, SBT 1.04,  Spark 2.3.3, IntelliJ Community Edition 2018.1.5/6 with Scala Plugin,1)	Scala IDE 4.7+,	HDP Sandbox 2.6.5, Suitable SSH client, Oracle Virtual Box 5.1/2 | At least 16 GB of RAM, at least 16-32 cores, at least 10GB or higher network |
+| 1,2,3,4,5,6,7 | JDK 8, Scala 2.11.12, SBT 1.04,  Spark 2.3.3, IntelliJ Community Edition 2018.1.5/6 with Scala Plugin, Scala IDE 4.7+,	HDP Sandbox 2.6.5, Suitable SSH client, Oracle Virtual Box 5.1/2 | At least 16 GB of RAM |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/ModernScalaProjects_ColorImages.pdf).
