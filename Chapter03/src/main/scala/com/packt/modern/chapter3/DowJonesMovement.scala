@@ -4,7 +4,7 @@ import org.apache.spark.ml.feature.{CountVectorizer, CountVectorizerModel, Token
 import org.apache.spark.sql.{DataFrame, DataFrameNaFunctions, functions}
 import org.apache.spark.sql.functions._
 
-object StockPredictionSystem extends App with StockPriceWrapper  {
+object DowJonesMovement extends App with DjiaWrapper  {
 
   val allHeadlines = newsDJIA(dataSetPath1)
 
